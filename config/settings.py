@@ -21,7 +21,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
 
     "clients",
-    "emailing",
+    "emailings",
     "users",
 ]
 
